@@ -1,0 +1,7 @@
+streamlit
+Pillow
+numpy
+opencv-python
+
+#pip install -r requirements.txt
+#streamlit run app.py
